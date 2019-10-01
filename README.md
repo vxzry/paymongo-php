@@ -14,7 +14,7 @@ Currently stubbed, open for contributions.
 
 ## Contributing
 
-Please refer to the project's [Contributing Guidelines]().
+Please refer to the project's [Contributing Guidelines](https://github.com/nardsqq/paymongo-php/blob/master/CONTRIBUTING.md).
 
 ## License
 
