@@ -1,0 +1,20 @@
+{
+    "name": "nardsqq/paymongo-php",
+    "description": "Charge credit or debit cards using PayMongo in PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nards paragas",
+            "email": "nardparagas@gmail.com"
+        },
+        {
+            "name": "amiel golosinda",
+            "email": "avgolosinda@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        
+    }
+}
